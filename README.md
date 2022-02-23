@@ -16,9 +16,10 @@ Batch is a group dating app for friends to join a group (or Batch together) so t
 
 # PREVIEW
 [Screen Recording 2022-02-23 at 12.23.32 pm.zip](https://github.com/anguscg/Batch/files/8121241/Screen.Recording.2022-02-23.at.12.23.32.pm.zip)
+
+
 <img width="292" alt="Screen Shot 2022-02-23 at 12 25 18 pm" src="https://user-images.githubusercontent.com/94268478/155247441-8f8aa4d6-c6aa-4c3f-bed7-a8481bd471b9.png">
 <img width="293" alt="Screen Shot 2022-02-23 at 12 25 49 pm" src="https://user-images.githubusercontent.com/94268478/155247485-f851ea29-d0b9-4e71-86df-dca53d54f503.png">
-
 <img width="293" alt="Screen Shot 2022-02-23 at 12 26 14 pm" src="https://user-images.githubusercontent.com/94268478/155247504-a058524e-7ccb-4099-be26-77f9926dcf45.png">
 
 
