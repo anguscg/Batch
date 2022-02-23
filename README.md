@@ -15,7 +15,8 @@ Batch is a group dating app for friends to join a group (or Batch together) so t
 - Image resizing for desktop view.
 
 # PREVIEW
-[Screen Recording 2022-02-23 at 12.23.32 pm.zip](https://github.com/anguscg/Batch/files/8121241/Screen.Recording.2022-02-23.at.12.23.32.pm.zip)
+[Screen Recording 2022-02-23 at 12.27.59 pm.zip](https://github.com/anguscg/Batch/files/8121260/Screen.Recording.2022-02-23.at.12.27.59.pm.zip)
+
 
 
 <img width="292" alt="Screen Shot 2022-02-23 at 12 25 18 pm" src="https://user-images.githubusercontent.com/94268478/155247441-8f8aa4d6-c6aa-4c3f-bed7-a8481bd471b9.png">
